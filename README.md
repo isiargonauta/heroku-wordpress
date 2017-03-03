@@ -9,7 +9,7 @@ This repo uses latest version of WordPress and the minimal configuration needed 
 **Just open the terminal and you're ready to go!**
 #### Step 1: Clone this repo to your local:
 ```
-git clone https://github.com/tonyjohnvan/heroku-wordpress.git
+git clone https://github.com/isiargonauta/heroku-wordpress.git
 cd heroku-wordpress
 ```
 #### Step 2: Run this command to generate the composer.lock:
